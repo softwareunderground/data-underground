@@ -25,25 +25,41 @@ Highest level breakdown of users:
 
 #### A few personas of users:
 1. Curious about what data is available but no end goal, project or datasets in mind. 
-  1. a. Goes to first page and that's it if not interested there.
-  1. b. Spends <4 minutes browsing and then bails if nothing in line with interests.
-  1. c. Will read details of multiple datasets and maybe download 1 or 2 max.
-  1. d. Will read details on every dataset up to first 50 and downloads 4 or 10 to explore in more depth.
+  a. Goes to first page and that's it if not interested there.
+  b. Spends <4 minutes browsing and then bails if nothing in line with interests.
+  c. Will read details of multiple datasets and maybe download 1 or 2 max.
+  d. Will read details on every dataset up to first 50 and downloads 4 or 10 to explore in more depth.
 2. Geologist with high level of programming skills. Interested in seismic data related to automatic fault picking.
+3. Geologist with low level of programming skills. Interested in facies prediction. Wants to move example work from an open-dataset to be applied to their own internal well log data.
+4. Geophysicist who wants to try out unsupervised machine-learning package that he's seen used recently on geology data and is curious what open data could used for that sort of approach.
 
 #### Use-cases
-1. Geologists new to programming who want to try standard data science packages like Pandas but want to use geoscience data.
-2. Geologists new to programming who want to try standard data science packages like Pandas but want to use geoscience data.
-3. Geologists new to programming who want to try standard data science packages like Pandas but want to use geoscience data.
-4. Geologists new to programming who want to try standard data science packages like Pandas but want to use geoscience data.
+1. Demo datasets in code packages. 
+2. Hackathon datasets.
+3. Datasets to go with open-source code. Users then make changes to the code but keep using the dataset.
+4. Various type of datascience: visualization, data exploration, sql practice, unsupervized learning, supervised learning, classification, regression prediction, etc.
 
-#### Suppliers of datasets
+#### Suppliers of datasets / who might have edit rights in some form?
+1. Owners of original datasets who also collected the data. 
+2. People who have rights to make the dataset public but didn't collect it originally or prep it. 
+3. People who found the dataset with an open-source license elsewhere and want to suggest it for inclusion on data-underground.
+4. People who want to add a correction to the already published dataset. 
+5. People who want to supply some additional notes to the dataset (for example which logs have bad formatting and won't load easily via LASIO). 
+6. People who want to add or link to code to load the dataset or work with the dataset in some way. 
+7. People who found a paper that references the dataset but don't own either the dataset or the paper.
 
-
-#### Level of hosting
+#### Level of dataset hosting
+here = data-underground
+1. This dataset exists only here. 
+2. This dataset is uploaded here but originally lived in this other place.
+3. This dataset is referenced here but still lives in its originally place here.
+4. This dataset is referenced here but has been automatically harvested from this site.
+4. This dataset is referenced here but to download it you have to go to this other site.
 
 #### Add-ons
+For: 
+- Discoverability
+- programmatic creation of meta-data from descriptions
+- end-user creation of new meta-data
+- end-user created code to use with the dataset
 
-#### End-users
-
-#### Intermediate-users
