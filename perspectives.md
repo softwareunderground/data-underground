@@ -17,13 +17,21 @@ As stated above, a focus on the characteristics datasets should have makes sense
 
 These concerns are less obvious with only 17 datasets on https://dataunderground.org/dataset as of today. These problems appear more as the number of individual datasets grows greater than users' willingess to read through all of them. 
 
+Additionally, these types of issues increase as the percent of datasets that can be aggregated into larger datasets increases. If all the datasets are completely separate or different in domain and,or format, than these issues are less of a problem.
+
 #### Background That Informs My Requirements/Needs
-First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. There's a lot of potential open-data sites out there. Second, I help maintain data.nasa.gov, which has approximately 40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
+First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. There's a lot of potential open-data sites out there. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
 
 #### Minimizing Time-To-Start is Maximizing Use Rate
-A hypothesis I have based on my own experiences and, to be completely honest, not based on any real data whatsoever, is that a lot of the most used open-data is just the easiest to use. A lot of datasets are hard to discover, and "discover" is often a more accurate word than "find" as a significant amount of use of open-data comes from people who didn't already know a dataset existed except through the open-data site or someone else who found it on the open-data site.
+A hypothesis I have based on my own experiences and, to be completely honest, not based on any real data whatsoever, is that a lot of the most used open-data is just the easiest to use. 
+
+This is what we see with data.nasa.gov. The most used datasets are typically small ones, in a standard format, that are harvested into sites with great user-interfaces making the evaluation and time to start very minimize. 
+
+A lot of datasets are hard to discover, and "discover" is often a more accurate word than "find" as a significant amount of use of open-data comes from people who didn't already know a dataset existed except through the open-data site or someone else who found it on the open-data site.  
 
 To maximize the rate of discoverability, you need to make the amount of time to get there shorter. This requires the ability to sort and filter datasets in ways the correlate with user needs. 
+
+[STRONGLY HELD OPIONION] The search functionality of some open-data sites is more geared to finding datasets than discovering them, which impacts the user experience.
 
 #### Discoverability Problems That Occur With More Datasets on a Site
 
@@ -59,24 +67,9 @@ The first, second, third, and fitch options don't require anyone to have permiss
 
 #### A Back-of-napkin ontology just for example sake
 
+[NOTHING STARTED HERE]
 
-======================================================================
-## THINGS I WROTE BEFORE WHEN I WAS TOO TIRED AND NEED TO REWRITE
-
-### Introduction
-After reading the initial file in this repository called <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">"open-data-guidelines.md"</a>, I made some issues <a href="https://github.com/softwareunderground/data-underground/issues/1">here</a> and <a href="https://github.com/softwareunderground/data-underground/issues/2">here</a>.
-
-After further evaluation, the thing that was bugging me was that the <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> was written directed at the supplier of a dataset. While that is the obvious place to start, it is worth thinking about a range of personas, multiple use cases, and different possible future states. 
-
-## Brainstorm of Personas, Use-cases, Users, Evolutions of Requirements
-
-### Builders & Maintainers of the website that hosts and presents that data to end-users
-These would be the people with the ability to make changes to https://dataunderground.org/dataset.
-
-Some characteristics one could use to describe them that might matter would be:
-1. The amount of time they want to / can contribute.
-2. The degree to which they choose to accept edits, code, or other types of control from outside the initial group. 
-3. Skills, particularly those that affect tech stack. 
+## Brainstorming Users, Personas, Use-cases, Potential Addons, and Evolutions of Requirements
 
 ### Users
 Highest level breakdown of users:
@@ -84,7 +77,15 @@ Highest level breakdown of users:
 2. Maintainers of the website (perhaps the most active users!)
 3. End-users consuming datasets
 
-#### A few personas of users:
+#### Builders & Maintainers of the website that hosts and presents that data to end-users
+These would be the people with the ability to make changes to https://dataunderground.org/dataset.
+
+Some characteristics one could use to describe them that might matter would be:
+1. The amount of time they want to / can contribute.
+2. The degree to which they choose to accept edits, code, or other types of control from outside the initial group. 
+3. Skills, particularly those that affect tech stack and the time to do different dataset approval, organization, or cleaning tasks. 
+
+#### A few personas of end-users:
 1. Curious about what data is available but no end goal, project or datasets in mind. 
   a. Goes to first page and that's it if not interested there.
   b. Spends <4 minutes browsing and then bails if nothing in line with interests.
@@ -94,7 +95,7 @@ Highest level breakdown of users:
 3. Geologist with low level of programming skills. Interested in facies prediction. Wants to move example work from an open-dataset to be applied to their own internal well log data.
 4. Geophysicist who wants to try out unsupervised machine-learning package that he's seen used recently on geology data and is curious what open data could used for that sort of approach.
 
-#### Use-cases
+#### End-users Use-cases
 1. Demo datasets in code packages. 
 2. Hackathon datasets.
 3. Datasets to go with open-source code. Users then make changes to the code but keep using the dataset.
