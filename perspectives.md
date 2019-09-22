@@ -23,7 +23,7 @@ First, I co-lead the houston data visualization meetup, which means I spend some
 #### Minimizing Time-To-Start is Maximizing Use Rate
 A hypothesis I have based on my own experiences and, to be honest, relatively little real data is that a lot of the most used open-data is just the easiest to use. 
 
-This is what we see with data.nasa.gov. The most used datasets are typically small ones, in a standard format, that are harvested into sites with great user-interfaces making the evaluation and time to start very minimize. 
+This is what we see with data.nasa.gov. The most used datasets are typically small ones, only one file, in CSV format, that are harvested into sites with great user-interfaces, like kaggle and data.world, making the evaluation and time to start very minimize. 
 
 A lot of datasets are hard to discover, and "discover" is often a more accurate word than "find" as a significant amount of use of open-data comes from people who didn't already know a dataset existed except through the open-data site or someone else who found it on the open-data site.  
 
