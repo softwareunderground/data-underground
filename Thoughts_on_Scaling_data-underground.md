@@ -1,7 +1,11 @@
 #### DRAFT / Brain Dump 
 
 #### What is this file?
-This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. This is in part an attempt to collect my thoughts.
+This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. 
+
+<b>This document is not meant as a directive for data-undergound at all</b> but more as a series of ideas from a single person to consider.
+
+- Justin Gosses
 
 #### Introduction / Why I'm writing this?
 After I reading the original <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> in this repo titled open-data-guidelines.md, it bugged me a little for reasons I had a hard time narrowing down. After giving it some thought, I realized I felt there were things left out due to the focus on the dataset.
