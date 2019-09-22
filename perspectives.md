@@ -52,20 +52,20 @@ The obvious solution to many of the discoverability problems above is tags. One 
 
 A few different solutions exist to the tagging issues highlighted above. 
 
-First, there can be a defined list of tags with certain mandatory key-value pairs that dataset suppliers have to fill out. 
+1. First, there can be a defined list of tags with certain mandatory key-value pairs that dataset suppliers have to fill out. 
 
-Second, there can a heoric website manager, or assigned intern, who goes through and re-tags every dataset. 
+2. Second, there can a heoric website manager, or assigned intern, who goes through and re-tags every dataset. 
 
-Third, if lengthy enough text description of each item exists, automated text tagging of topics can augment human-generated tags. 
+3. Third, if lengthy enough text description of each item exists, automated text tagging of topics can augment human-generated tags. 
 
-Fourth, the community that users the dataset can tag datasets as they evaluate & use them, potentially according to an ontology that develops over time and is maintained in a central location. For example, there might be a characteristic about well logs, like whether they have tops, that is deemed interestingly enough that it is flagged by the group as something all datasets with well logs should be re-tagged with. This requires an active community and may not be possible if the open-data site is harvesting hundreds or thousands of datasets from other open-data sites.
+4. Fourth, the community that users the dataset can tag datasets as they evaluate & use them, potentially according to an ontology that develops over time and is maintained in a central location. For example, there might be a characteristic about well logs, like whether they have tops, that is deemed interestingly enough that it is flagged by the group as something all datasets with well logs should be re-tagged with. This requires an active community and may not be possible if the open-data site is harvesting hundreds or thousands of datasets from other open-data sites.
 
-Fifth, there isn't a good way to discovery datasets that meet a range of criteria except through a lot of work reading descriptions and downloading datasets.
+5. Fifth, there isn't a good way to discovery datasets that meet a range of criteria except through a lot of work reading descriptions and downloading datasets.
 
-#### Comments on the Solutions Listed Above
-The first, second, third, and fitch options don't require anyone to have permissions to make edits to datasets except the dataset suppliers and maybe the website managers. The fourth, however, requires everyone to have edit access. This enables a lot of flexibility, especially going into the future after a dataset is initially uploaded, but has the downside of potentially scaring dataset suppliers.
+##### Comments on the Solutions Listed Above
+The first, second, third, and fifth options don't require anyone to have permissions to make edits to datasets except the dataset suppliers and maybe the website managers. The fourth, however, requires everyone to have edit access. This enables a lot of flexibility, especially going into the future after a dataset is initially uploaded, but has the downside of potentially scaring dataset suppliers.
 
-#### A Back-of-napkin ontology just for example sake
+##### A Back-of-napkin geo-coding tag ontology just for example sake
 
 [NOTHING STARTED HERE]
 
