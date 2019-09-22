@@ -20,7 +20,7 @@ These concerns are less obvious with only 17 datasets on https://dataunderground
 Additionally, these types of issues increase as the percent of datasets that can be aggregated into larger datasets increases. If all the datasets are completely separate or different in domain and,or format, than these issues are less of a problem.
 
 #### Background That Informs My Requirements/Needs
-First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. There's a lot of potential open-data sites out there. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
+First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
 
 #### Minimizing Time-To-Start is Maximizing Use Rate
 A hypothesis I have based on my own experiences and, to be honest, relatively little real data is that a lot of the most used open-data is just the easiest to use. 
@@ -63,7 +63,7 @@ A few different solutions exist to the tagging issues highlighted above.
 5. Fifth, there isn't a good way to discovery datasets that meet a range of criteria except through a lot of work reading descriptions and downloading datasets.
 
 ##### Comments on the Solutions Listed Above
-The first, second, third, and fifth options don't require anyone to have permissions to make edits to datasets except the dataset suppliers and maybe the website managers. The fourth, however, requires everyone to have edit access. This enables a lot of flexibility, especially going into the future after a dataset is initially uploaded, but has the downside of potentially scaring dataset suppliers.
+The first, second, third, and fifth options don't require anyone to have permissions to make edits to datasets except the dataset suppliers and maybe the website managers. The fourth, however, requires everyone to have edit access. This has the potential to scare dataset suppliers if data-underground is the primary site with the dataset.
 
 ##### A Back-of-napkin geo-coding tag ontology just for example sake
 
