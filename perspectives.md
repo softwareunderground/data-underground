@@ -119,12 +119,19 @@ here = data-underground
 7. This dataset is not uploaded here but merely referenced with a link to the original site. There is no direct download link to the actual file(s).
 
 #### Issues Related to levels of dataset hosting
+- Different people access the dataset at different times and get different data without realizing it.
+- Datasets at links are not longer at those links at some point.
+- Should datasets only referenced be backed up somewhere?
+- What tags are necessary to make these issues clear to end-users to prevent confusion?
+- If direct download links are available if prevent programmatic download as well as programmatic download & description. 
 
+#### Future or External Programmatic Add-ons
+As data-undergound has an API, it is worth considering what external (or internal) parties could build with that API early, so that the necessary metadata are populated to a useful extent.
 
-#### Add-ons
-For: 
-- Discoverability
-- programmatic creation of meta-data from descriptions
-- end-user creation of new meta-data
-- end-user created code to use with the dataset
-
+Example Potential Add-ons:
+- Visualizations to show summary descriptions of all the datasets in data-underground.
+- Programmatic creation of new meta-data from dataset descriptions or existing metadata tags.
+- Discoverability filter abilities that go beyond the original site's tools.
+- Programmatic download and programmatic description of datasets resulting in additional metadata creation.
+- Linking ability to related papers, code projects, starter code, etc.
+- Things you haven't thought of yet but someone else has.
