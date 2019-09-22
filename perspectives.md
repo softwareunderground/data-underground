@@ -115,7 +115,7 @@ here = data-underground
 3. This dataset is programmatically harvested (uploaded) to this site and there are programmatic checks in place to re-harvest if it changes. 
 4. This dataset is manually uploaded here from another site but there is no telling if the original has changed elsewhere.
 5. This dataset is not uploaded here but merely referenced with a direct download link.
-6. This dataset is not uploaded here but merely referenced with a direct download link and a marker for it the dataset has changed since original placement.
+6. This dataset is not uploaded here but merely referenced with a direct download link and a flag for if the dataset has changed since original placement.
 7. This dataset is not uploaded here but merely referenced with a link to the original site. There is no direct download link to the actual file(s).
 
 #### Issues Related to levels of dataset hosting
