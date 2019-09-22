@@ -1,7 +1,7 @@
 #### What is this file?
 This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. 
 
-<b>This document is not meant as a directive for data-undergound at all</b> but more as a series of ideas from a single person to consider.
+<b>This document is not meant as a directive for data-undergound at all</b> but more as a series of ideas from a single person to consider. It is, to some extent, a brain dump. Sorry for the rambling.
 
 - Justin Gosses
 
