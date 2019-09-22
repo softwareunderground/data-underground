@@ -8,7 +8,7 @@ This markdown file is something akin to a slack comment in purpose, but way to l
 #### Why I'm writing this?
 After I reading the original <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> in this repo titled open-data-guidelines.md, I realized it bugged me a bit for reasons I had a hard time narrowing down. After giving it some thought, I realized I felt there were things left out due to the focus on the dataset.
 
-The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also evaluating the site that hosts the dataset as well as the different types of members in the community around it.
+The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also considering the site that hosts the dataset as well as the different types of members in the community around it.
 
 <i>This document is an attempt to suggest other perspectives beyond, what characteristics should the dataset have, to consider when creating an open-data site for datasets geared to geoscience + coding.<i>
 
