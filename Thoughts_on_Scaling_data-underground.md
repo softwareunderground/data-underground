@@ -12,15 +12,15 @@ The focus on the dataset makes sense, of course, but I think you get to a better
 
 <i>This document is an attempt to suggest other perspectives to consider when creating an open-data site for datasets geared to geoscience + coding beyond what characteristics should the dataset have.</i>
 
-#### Open-data Sites & Constraints On Users
+#### Background That Informs My Requirements/Needs
+First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
+
+#### Problems With Scale
 I typically find myself less bothered by the characteristics of individual datasets and more by my experiences, or other peoples' experiences, of trying to work with open-datasets in aggregate. Searching through them, evaluating them, organizing them, and aggregating them is often very difficult due to constraints built in place early. Sometimes constraints occur, because certain metadata wasn't encouraged. Other times sites lack certain filtering capability. Other times aspects of the datasets are not programmatically accessible. I less often find myself working with a specific dataset and say "oh it would be great it this particular dataset had blank".
 
 These concerns are less obvious with only 17 datasets on https://dataunderground.org/dataset as of today. These problems appear more as the number of individual datasets grows greater than users' willingess to read through all of them. 
 
 Additionally, these types of issues increase as the percent of datasets that can be aggregated into larger datasets increases. If all the datasets are completely separate or different in domain and,or format, than these issues are less of a problem.
-
-#### Background That Informs My Requirements/Needs
-First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
 
 #### Minimizing Time-To-Start is Maximizing Use Rate
 A hypothesis I have based on my own experiences and, to be honest, relatively little real data is that a lot of the most used open-data is just the easiest to use. 
