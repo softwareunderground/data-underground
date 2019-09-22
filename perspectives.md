@@ -21,7 +21,7 @@ Additionally, these types of issues increase as the percent of datasets that can
 First, I co-lead the houston data visualization meetup, which means I spend some time searching for good datasets people would enjoy visualizing during our datajams over the course of about 4 hours. There's a lot of potential open-data sites out there. Second, I help maintain data.nasa.gov, which has approximately ~40,000 datasets and gets harvested into <a href="https://catalog.data.gov/dataset">data.gov</a>, which has almost a quarter of a million. 
 
 #### Minimizing Time-To-Start is Maximizing Use Rate
-A hypothesis I have based on my own experiences and, to be completely honest, not based on any real data whatsoever, is that a lot of the most used open-data is just the easiest to use. 
+A hypothesis I have based on my own experiences and, to be honest, relatively little real data is that a lot of the most used open-data is just the easiest to use. 
 
 This is what we see with data.nasa.gov. The most used datasets are typically small ones, in a standard format, that are harvested into sites with great user-interfaces making the evaluation and time to start very minimize. 
 
