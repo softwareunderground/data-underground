@@ -10,7 +10,7 @@ After I reading the original <a href="https://github.com/softwareunderground/dat
 
 The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also considering the site that hosts the dataset as well as the different types of members in the community around both the dataset and the site as a hole.
 
-<i>This document is an attempt to suggest other perspectives beyond, what characteristics should the dataset have, to consider when creating an open-data site for datasets geared to geoscience + coding.<i>
+<i>This document is an attempt to suggest other perspectives beyond, what characteristics should the dataset have, to consider when creating an open-data site for datasets geared to geoscience + coding.</i>
 
 #### Open-data Sites & Constraints On Users
 As stated above, a focus on the characteristics datasets should have makes sense, of course. However, I typically find myself less bothered by the characteristics of individual datasets and more by my experiences, or other peoples' experiences, of trying to work with open-datasets in aggregate. Searching through them, evaluating them, organizing them, and aggregating them is often very difficult due to constraints built in place early. Sometimes constraints occur, because certain metadata wasn't encouraged. Other times sites lack certain filtering capability. Other times aspects of the datasets are not programmatically accessible. I less often find myself working with a specific dataset and say "oh it would be great it this particular dataset had blank".
