@@ -6,14 +6,14 @@
 This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. This is in part an attempt to collect my thoughts.
 
 #### Why I'm writing this?
-After I reading the original <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> in this repo titled open-data-guidelines.md, I realized it bugged me a bit for reasons I had a hard time narrowing down. After giving it some thought, I realized I felt there were things left out due to the focus on the dataset.
+After I reading the original <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> in this repo titled open-data-guidelines.md, it bugged me a little for reasons I had a hard time narrowing down. After giving it some thought, I realized I felt there were things left out due to the focus on the dataset.
 
-The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also considering the site that hosts the dataset as well as the different types of members in the community around it.
+The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also considering the site that hosts the dataset as well as the different types of members in the community around both the dataset and the site as a hole.
 
 <i>This document is an attempt to suggest other perspectives beyond, what characteristics should the dataset have, to consider when creating an open-data site for datasets geared to geoscience + coding.<i>
 
 #### Open-data Sites & Constraints On Users
-A focus on the characteristics datasets should have makes sense, of course. However, I'm less bothered the characteristics of individual datasets and more by my experiences, or other peoples' experiences, of trying to work with open-datasets in aggregate. Searching through them, evaluating them, organizing them, and aggregating them is often very difficult due to constraints built in place early. Sometimes constraints occur, because certain metadata wasn't encouraged. Other times sites lack certain filtering capability. Other times aspects of the datasets are not programmatically accessible. 
+As stated above, a focus on the characteristics datasets should have makes sense, of course. However, I typically find myself less bothered by the characteristics of individual datasets and more by my experiences, or other peoples' experiences, of trying to work with open-datasets in aggregate. Searching through them, evaluating them, organizing them, and aggregating them is often very difficult due to constraints built in place early. Sometimes constraints occur, because certain metadata wasn't encouraged. Other times sites lack certain filtering capability. Other times aspects of the datasets are not programmatically accessible. I less often find myself working with a specific dataset and say "oh it would be great it this particular dataset had blank".
 
 These concerns are less obvious with only 17 datasets on https://dataunderground.org/dataset as of today. These problems appear more as the number of individual datasets grows greater than users' willingess to read through all of them. 
 
