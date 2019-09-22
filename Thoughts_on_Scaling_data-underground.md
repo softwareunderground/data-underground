@@ -1,5 +1,3 @@
-#### DRAFT / Brain Dump 
-
 #### What is this file?
 This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. 
 
