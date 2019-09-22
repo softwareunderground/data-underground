@@ -1,11 +1,9 @@
-# DRAFT
-
-## Introduction
+#### DRAFT / Brain Dump 
 
 #### What is this file?
 This markdown file is something akin to a slack comment in purpose, but way to long for that format, so I'm putting it here. I apologize for the rambling. This is in part an attempt to collect my thoughts.
 
-#### Why I'm writing this?
+#### Introduction / Why I'm writing this?
 After I reading the original <a href="https://github.com/softwareunderground/data-underground/blob/master/open-data-guidelines.md">document</a> in this repo titled open-data-guidelines.md, it bugged me a little for reasons I had a hard time narrowing down. After giving it some thought, I realized I felt there were things left out due to the focus on the dataset.
 
 The focus on the dataset makes sense, of course, but I think you get to a better place but not just asking questions about what characteristics the dataset should have but also considering the site that hosts the dataset as well as the different types of members in the community around both the dataset and the site as a hole.
@@ -110,13 +108,18 @@ Some characteristics one could use to describe them that might matter would be:
 6. People who want to add or link to code to load the dataset or work with the dataset in some way. 
 7. People who found a paper that references the dataset but don't own either the dataset or the paper.
 
-#### Level of dataset hosting
+#### Levels of dataset hosting
 here = data-underground
-1. This dataset exists only here. 
-2. This dataset is uploaded here but originally lived in this other place.
-3. This dataset is referenced here but still lives in its originally place here.
-4. This dataset is referenced here but has been automatically harvested from this site.
-4. This dataset is referenced here but to download it you have to go to this other site.
+1. This dataset was uploaded here originally and exists only here. 
+2. This dataset is uploaded here but also lives in its original location where it may or may not have changed since.
+3. This dataset is programmatically harvested (uploaded) to this site and there are programmatic checks in place to re-harvest if it changes. 
+4. This dataset is manually uploaded here from another site but there is no telling if the original has changed elsewhere.
+5. This dataset is not uploaded here but merely referenced with a direct download link.
+6. This dataset is not uploaded here but merely referenced with a direct download link and a marker for it the dataset has changed since original placement.
+7. This dataset is not uploaded here but merely referenced with a link to the original site. There is no direct download link to the actual file(s).
+
+#### Issues Related to levels of dataset hosting
+
 
 #### Add-ons
 For: 
